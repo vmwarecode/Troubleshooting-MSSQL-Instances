@@ -1,1 +1,0 @@
-# Troubleshooting-MSSQL-Instances
